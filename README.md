@@ -1,3 +1,3 @@
 # OIBGRIP
-landing page of stock market consultancy using html and css
+landing page of stock market consultancy website using html and css
 task1 
